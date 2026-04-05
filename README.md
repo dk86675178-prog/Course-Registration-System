@@ -24,7 +24,14 @@ This is a web-based course registration system developed using Java Spring Boot 
 5. Open browser and access the application
 
 ## 📸 Screenshots
-(Add screenshots here if available)
+### 🏠 Pamphlet Page
+![Pamphlet](Course-pamplet.png)
+
+### 📝 Registration Page
+![Registration](Course-Registration.png)
+
+### 📋 Student Details Page
+![Student Details](Course-student-datas.png)
 
 ## 📚 Learning Outcome
 - Learned full stack development using Spring Boot
